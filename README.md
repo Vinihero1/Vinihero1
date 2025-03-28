@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinicius 
-- 👀 I’m interested in front end 
-- 🌱 I’m currently learning Java script, css3 e HTML 5
+- 👀 I’m interested in  developer front end 
+- 🌱 I’m currently learning React, Type Script
 - 💞️ I’m looking to collaborate on comunity
 - 📫 How to reach me 
 

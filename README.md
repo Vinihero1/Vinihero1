@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinicius 
 - 👀 I’m interested in  developer front end 
 - 🌱 I’m currently learning React, Type Script
-- 💞️ I’m looking to collaborate on comunity
+- 💞️ I’m looking  a procura do meu primeiro emprego
 - 📫 How to reach me 
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinihero1
+- 👋 Hi, I’m Vinicius 
 - 👀 I’m interested in front end 
 - 🌱 I’m currently learning Java script, css3 e HTML 5
 - 💞️ I’m looking to collaborate on comunity
